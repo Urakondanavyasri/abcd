@@ -1,0 +1,47 @@
+1)WHAT IS AGILE?
+     Agile is not a methodology, it is a mindset.
+    Agile is an iterative and incremental approach to software development that focuses on collaboration, customer feedback. It promotes adaptive planning and continuous improvement.
+
+2) PRINCIPLES OF AGILE
+Customers are no need to wait for long time.
+Close collaboration between business stakeholders and developers.
+Face-to-face communication as the most effective method.
+
+3)DIFFERENT TYPES OF AGILE METHOFOLOGIES
+Kanban 
+Scrum
+Extreme Programming (XP)
+Adaptive Project Framework (APF)
+
+4)AGILE TOOLS FOR SOFTWARE DEVELOPMENT
+     Jira
+     Trello
+     Pivotal labs
+     Monday.com
+
+5)BENEFITS OF THE AGILE METHODOLOGY
+Customer satisfaction, time to market early, flexibility, change to freedom and team collaboration.
+
+6)WHAT IS SCURM?
+    Scrum is an Agile framework that organizes work into sprints (typically 2-4 weeks) with a focus on
+continuous delivery, feedback, and collaboration among cross-functional teams.
+
+7)WHAT ARE SCRUM ROLES?
+ PRODUCT OWNER: The Product Owner focuses on ensuring the development team delivers the most value to the business. They understand and prioritize the changing needs of end users and customers.Give the team clear guidance on which features to deliver next.
+    SCRUM LEADER : Scrum leaders are the champions for Scrum within their teams. They are accountable for the Scrum Team’s effectiveness. 
+         SCURM DEVELOPMENT TEAM:The Scrum Team consists of testers, designers, UX specialists, Ops engineers, and developers.
+
+
+8)SCURM ARTIFACTS
+PRODUCT BACKLOG :The Product Backlog is a dynamic list of features, requirements, enhancements, and fixes that must be completed for project success.
+ SPRINT BACKLOG :The Sprint Backlog is the list of items to be completed by the development team in the current Sprint cycle.
+ INCREMENT :The Increment is a step towards a goal or vision. It is the usable end product from a Sprint. Teams can adopt different methods to define and demonstrate their Sprint Goals.
+
+9)SCRUM EVENTS
+  SPRINT PLANNING :the team estimates the work to be completed in the next Sprint. Members define Sprint Goals that are specific, measurable, and attainable.
+   SPRINT :A Sprint is the actual time period when the Scrum Team works together to finish an Increment. Two weeks is the typical length for a Sprint but can vary depending on the needs of the project and the team.
+DAILY SCRUM OR STAND UP : At the end of the Sprint, the team gets together for an informal session to review the work completed and showcase it to stakeholders. The Product Owner might also rework the Product Backlog based on the current Sprint.
+SPRINT RETROSPECTIVE :.The team comes together to document and discuss what worked and what didn’t work during the Sprint. Ideas generated are used to improve future Sprints.
+
+CONCLUSION
+In conclusion, the Agile model is like building a project in small, flexible steps. It's about being quick to adapt, working closely with customers, and delivering value in small doses.
